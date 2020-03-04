@@ -1,4 +1,4 @@
-#Guess Blue
+# Guess Blue
 
 You and a friend have decided to play a game to drill your statistical intuitions.
 
